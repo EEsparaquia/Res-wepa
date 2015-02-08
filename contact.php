@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contact - Your Business - Start Bootstrap Template</title>
+    <title>Contact - Your Business - Template</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -134,7 +134,7 @@
 
         <div class="col-sm-4">
           <h3>Your Business</h3>
-          <h4>A Start Bootstrap Template</h4>
+          <h4>A Template</h4>
           <p>
             5555 44th Street N.<br>
             Bootstrapville, CA 32323<br>
