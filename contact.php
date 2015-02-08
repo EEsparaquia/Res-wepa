@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contact - Modern Business - Start Bootstrap Template</title>
+    <title>Contact - Your Business - Start Bootstrap Template</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -28,7 +28,7 @@
             <span class="icon-bar"></span>
           </button>
           <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-          <a class="navbar-brand" href="index.html">Modern Business</a>
+          <a class="navbar-brand" href="index.html">Your Business</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -133,7 +133,7 @@
         </div>
 
         <div class="col-sm-4">
-          <h3>Modern Business</h3>
+          <h3>Your Business</h3>
           <h4>A Start Bootstrap Template</h4>
           <p>
             5555 44th Street N.<br>
